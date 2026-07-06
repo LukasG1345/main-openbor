@@ -8,7 +8,13 @@
 #	scene	[filename]	Show a cut-scene
 #
 
+set	lukas_demo
 
+file	data/levels/example1.txt
+next
+file	data/levels/holes.txt
+next
+scene	data/scenes/ending.txt
 
 set	DBH_Course_Test
 
